@@ -2,6 +2,8 @@ module github.com/ck00004/uarand
 
 go 1.17
 
+replace github.com/ck00004/uarand => github.com/corpix/uarand // indirect
+
 require github.com/stretchr/testify v1.8.0
 
 require (
