@@ -1,4 +1,4 @@
-module github.com/corpix/uarand
+module github.com/ck00004/uarand
 
 go 1.17
 
