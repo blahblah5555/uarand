@@ -1,4 +1,4 @@
-module github.com/ck00004/uarand
+module github.com/blahblah5555/uarand
 
 go 1.17
 
